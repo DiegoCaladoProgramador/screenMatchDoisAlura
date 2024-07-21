@@ -4,10 +4,7 @@ import br.com.alura.screenmatch.model.*;
 import br.com.alura.screenmatch.repository.SerieRepository;
 import br.com.alura.screenmatch.service.ConsumoApi;
 import br.com.alura.screenmatch.service.ConverteDados;
-import org.springframework.beans.factory.annotation.Autowired;
 
-import javax.swing.text.html.Option;
-import java.sql.SQLOutput;
 import java.util.*;
 import java.util.stream.Collectors;
 
